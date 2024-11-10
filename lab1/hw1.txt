@@ -1,0 +1,16 @@
+创建文件夹的指令是：
+ls指令的含义：
+ls -l指令的含义：
+rm指令的含义:
+rm -f指令的含义：
+rm -r指令的含义：
+pwd指令的含义：
+cd指令的含义：
+cd ..指令的含义：
+cd ~指令的含义：
+man指令的含义：
+sudo apt-get install vim指令的含义：
+cat test.txt >> output.txt指令的含义：
+cat test.txt | grep data指令的含义：
+给出 **获得终端历史记录中最常用到的五条指令及其次数** 的指令(不包括参数，如ls -a看作ls）：
+给出 **统计words文件 (/usr/share/dict/words) 中包含至少三个a 且不以's 结尾的单词个数** 的指令(不区分大小写)：
